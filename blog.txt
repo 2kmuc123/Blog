@@ -1,0 +1,22 @@
+-account 
+    _id 
+    username
+    email
+    account
+    phone
+    address
+    role
+
+-blog
+    _id
+    title
+    author
+    content1
+    content2
+    content3
+    image1
+    image2
+    image3
+    video1
+    
+    
